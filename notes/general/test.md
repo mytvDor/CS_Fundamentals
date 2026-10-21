@@ -1,6 +1,5 @@
 ---
 title: "test"
-tags: ["testing"]
 ---
 
 hello H
