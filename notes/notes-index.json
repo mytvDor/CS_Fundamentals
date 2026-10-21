@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-10-21T17:11:33.012Z",
+  "lastSyncedAt": "2026-10-21T17:12:52.493Z",
   "folders": [
+    {
+      "id": "686ba841-78df-4ef7-8c61-3ca706599ffc",
+      "name": "new folder added",
+      "parentId": null,
+      "order": 1
+    },
     {
       "id": "a80f44f6-e040-40d9-aa05-bd030ee9eeec",
       "name": "test",
@@ -91,6 +97,16 @@
       ],
       "favorite": false,
       "updatedAt": "2026-10-21T16:27:02.922Z"
+    },
+    {
+      "id": "eb3482d2-9bd2-4a76-b0cb-6090c044fdc9",
+      "folderId": "686ba841-78df-4ef7-8c61-3ca706599ffc",
+      "folderName": "new folder added",
+      "title": "for image test",
+      "filePath": "notes/new folder added/for image test.md",
+      "tags": [],
+      "favorite": false,
+      "updatedAt": "2026-10-21T17:12:22.162Z"
     }
   ]
 }
