@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "lastSyncedAt": "2026-10-21T17:11:33.012Z",
+  "folders": [
+    {
+      "id": "a80f44f6-e040-40d9-aa05-bd030ee9eeec",
+      "name": "test",
+      "parentId": null,
+      "order": 3
+    }
+  ],
+  "notes": [
+    {
+      "id": "17457bed-76fd-4333-9b75-14f7cc333677",
+      "folderId": "347432ef-cde1-4399-bbe6-35e7d73d5e5d",
+      "folderName": "general",
+      "title": "test",
+      "filePath": "notes/general/test.md",
+      "tags": [],
+      "favorite": false,
+      "updatedAt": "2026-10-21T17:03:32.917Z"
+    },
+    {
+      "id": "235e05b6-f76a-4eeb-923c-9777eb1d42e7",
+      "folderId": "d83c24a0-4c02-4632-b056-56897fd90493",
+      "folderName": "general",
+      "title": "test",
+      "filePath": "notes/general/test.md",
+      "tags": [],
+      "favorite": false,
+      "updatedAt": "2026-10-21T16:45:59.777Z"
+    },
+    {
+      "id": "3835aa94-179a-43af-8aff-7dff3323a85c",
+      "folderId": "374e5ec9-3821-441f-ae6e-92346c42b3ec",
+      "folderName": "general",
+      "title": "test",
+      "filePath": "notes/general/test.md",
+      "tags": [],
+      "favorite": false,
+      "updatedAt": "2026-10-21T16:46:50.641Z"
+    },
+    {
+      "id": "523e16b1-cf7c-4de4-b8e1-cf74ba948db7",
+      "folderId": "d301bd0d-cac9-4744-9401-3dc8a1dd0033",
+      "folderName": "general",
+      "title": "test",
+      "filePath": "notes/general/test.md",
+      "tags": [],
+      "favorite": false,
+      "updatedAt": "2026-10-21T16:50:17.298Z"
+    },
+    {
+      "id": "7a63ffb5-17ea-483e-a2ad-5845e53a1263",
+      "folderId": "a80f44f6-e040-40d9-aa05-bd030ee9eeec",
+      "folderName": "test",
+      "title": "test",
+      "filePath": "notes/test/test.md",
+      "tags": [],
+      "favorite": false,
+      "updatedAt": "2026-10-21T16:51:28.889Z"
+    },
+    {
+      "id": "8106dc94-a517-44e9-9f43-b5aecab474d6",
+      "folderId": "02f751a7-9080-4c88-9978-24364acaf02a",
+      "folderName": "general",
+      "title": "test",
+      "filePath": "notes/general/test.md",
+      "tags": [],
+      "favorite": false,
+      "updatedAt": "2026-10-21T17:09:23.449Z"
+    },
+    {
+      "id": "ae30e96e-db07-4964-92d8-1c825e9ad17b",
+      "folderId": "70cdb64a-ca08-478c-8dc0-86abb7cdcefb",
+      "folderName": "general",
+      "title": "test",
+      "filePath": "notes/general/test.md",
+      "tags": [],
+      "favorite": false,
+      "updatedAt": "2026-10-21T16:50:18.268Z"
+    },
+    {
+      "id": "ba35b156-a094-4c7b-8ac1-37b90e603675",
+      "folderId": "d83c24a0-4c02-4632-b056-56897fd90493",
+      "folderName": "general",
+      "title": "test",
+      "filePath": "notes/general/test.md",
+      "tags": [
+        "testing"
+      ],
+      "favorite": false,
+      "updatedAt": "2026-10-21T16:27:02.922Z"
+    }
+  ]
+}
