@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-10-21T17:22:01.325Z",
+  "lastSyncedAt": "2026-10-21T17:28:56.709Z",
   "folders": [
     {
       "id": "686ba841-78df-4ef7-8c61-3ca706599ffc",
@@ -18,7 +18,8 @@
       "filePath": "notes/general/test.md",
       "tags": [],
       "favorite": false,
-      "updatedAt": "2026-10-21T17:03:32.917Z"
+      "updatedAt": "2026-10-21T17:03:32.917Z",
+      "images": []
     },
     {
       "id": "235e05b6-f76a-4eeb-923c-9777eb1d42e7",
@@ -30,7 +31,8 @@
         "testing"
       ],
       "favorite": false,
-      "updatedAt": "2026-10-21T16:27:02.922Z"
+      "updatedAt": "2026-10-21T16:27:02.922Z",
+      "images": []
     },
     {
       "id": "3835aa94-179a-43af-8aff-7dff3323a85c",
@@ -40,7 +42,8 @@
       "filePath": "notes/general/test.md",
       "tags": [],
       "favorite": false,
-      "updatedAt": "2026-10-21T16:46:50.641Z"
+      "updatedAt": "2026-10-21T16:46:50.641Z",
+      "images": []
     },
     {
       "id": "523e16b1-cf7c-4de4-b8e1-cf74ba948db7",
@@ -50,7 +53,8 @@
       "filePath": "notes/general/test.md",
       "tags": [],
       "favorite": false,
-      "updatedAt": "2026-10-21T16:50:17.298Z"
+      "updatedAt": "2026-10-21T16:50:17.298Z",
+      "images": []
     },
     {
       "id": "7a63ffb5-17ea-483e-a2ad-5845e53a1263",
@@ -60,7 +64,8 @@
       "filePath": "notes/general/test.md",
       "tags": [],
       "favorite": false,
-      "updatedAt": "2026-10-21T16:51:28.889Z"
+      "updatedAt": "2026-10-21T16:51:28.889Z",
+      "images": []
     },
     {
       "id": "8106dc94-a517-44e9-9f43-b5aecab474d6",
@@ -70,7 +75,8 @@
       "filePath": "notes/general/test.md",
       "tags": [],
       "favorite": false,
-      "updatedAt": "2026-10-21T17:09:23.449Z"
+      "updatedAt": "2026-10-21T17:09:23.449Z",
+      "images": []
     },
     {
       "id": "ae30e96e-db07-4964-92d8-1c825e9ad17b",
@@ -80,7 +86,8 @@
       "filePath": "notes/general/test.md",
       "tags": [],
       "favorite": false,
-      "updatedAt": "2026-10-21T16:50:18.268Z"
+      "updatedAt": "2026-10-21T16:50:18.268Z",
+      "images": []
     },
     {
       "id": "ba35b156-a094-4c7b-8ac1-37b90e603675",
@@ -92,7 +99,8 @@
         "testing"
       ],
       "favorite": false,
-      "updatedAt": "2026-10-21T16:27:02.922Z"
+      "updatedAt": "2026-10-21T16:27:02.922Z",
+      "images": []
     },
     {
       "id": "eb3482d2-9bd2-4a76-b0cb-6090c044fdc9",
@@ -102,7 +110,8 @@
       "filePath": "notes/new folder added/for image test.md",
       "tags": [],
       "favorite": false,
-      "updatedAt": "2026-10-21T17:12:22.162Z"
+      "updatedAt": "2026-10-21T17:28:32.096Z",
+      "images": []
     }
   ]
 }
