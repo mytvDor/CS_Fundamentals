@@ -18,7 +18,3 @@ hello H
 hello I am ready to write code here
 
 ```
-
-hello so I ma ready to syar
-
-- [ ]
