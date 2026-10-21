@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-10-21T17:28:56.709Z",
+  "lastSyncedAt": "2026-10-21T17:31:46.560Z",
   "folders": [
     {
-      "id": "686ba841-78df-4ef7-8c61-3ca706599ffc",
-      "name": "new folder added",
+      "id": "d99845b3-f696-4979-8aaa-0195424a856f",
+      "name": "General Notes",
       "parentId": null,
-      "order": 1
+      "order": 0
     }
   ],
   "notes": [
@@ -90,6 +90,19 @@
       "images": []
     },
     {
+      "id": "b8cb1fe0-22f7-42a9-b409-ca23eb7f9bdd",
+      "folderId": "d99845b3-f696-4979-8aaa-0195424a856f",
+      "folderName": "General Notes",
+      "title": "check notes",
+      "filePath": "notes/General Notes/check notes.md",
+      "tags": [],
+      "favorite": false,
+      "updatedAt": "2026-10-21T17:31:17.274Z",
+      "images": [
+        "images/1792603865718_Bgimg1.png"
+      ]
+    },
+    {
       "id": "ba35b156-a094-4c7b-8ac1-37b90e603675",
       "folderId": "d83c24a0-4c02-4632-b056-56897fd90493",
       "folderName": "general",
@@ -105,9 +118,9 @@
     {
       "id": "eb3482d2-9bd2-4a76-b0cb-6090c044fdc9",
       "folderId": "686ba841-78df-4ef7-8c61-3ca706599ffc",
-      "folderName": "new folder added",
+      "folderName": "general",
       "title": "for image test",
-      "filePath": "notes/new folder added/for image test.md",
+      "filePath": "notes/general/for image test.md",
       "tags": [],
       "favorite": false,
       "updatedAt": "2026-10-21T17:28:32.096Z",
